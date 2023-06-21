@@ -3,4 +3,5 @@ Using this repo to save my code in the clouds. I am running this locally on my m
 
 
 Day 1: Managed to learn how to manipulate scalars.
+
 Day 2: Even more tensor methods + datatypes learned.
