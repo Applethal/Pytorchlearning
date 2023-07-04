@@ -9,3 +9,5 @@ Day 2: Even more tensor methods + datatypes learned.
 Day 3: Matrix multiplication, nothing new here to be honest.
 
 Day 4: Even more tensor manipulations: squeezing, unsqueezing, viewing and reshaping.
+
+Week 2: Had to go back and revise tensors again before making an advancement.
